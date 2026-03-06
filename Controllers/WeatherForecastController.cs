@@ -6,6 +6,7 @@ namespace GIT_UIT.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //This is string array of weather summaries
         private static readonly string[] Summaries =
         [
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
