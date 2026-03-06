@@ -1,5 +1,6 @@
 namespace GIT_UIT
 {
+    // This is a simple class representing a weather forecast with properties for date, temperature in Celsius, temperature in Fahrenheit, and a summary description.
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
