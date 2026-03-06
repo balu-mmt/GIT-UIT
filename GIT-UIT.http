@@ -1,0 +1,6 @@
+@GIT_UIT_HostAddress = http://localhost:5190
+
+GET {{GIT_UIT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
